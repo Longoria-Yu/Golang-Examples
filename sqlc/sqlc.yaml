@@ -1,3 +1,4 @@
+# ref: https://docs.sqlc.dev/en/latest/configuration.html
 version: "2"
 servers: []
 sql:
